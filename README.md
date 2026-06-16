@@ -152,5 +152,6 @@ MIT
 
 
 
-## Website Of the Game
+## Where is this hosted?
 https://sa-du-mini-games.vercel.app/
+    
