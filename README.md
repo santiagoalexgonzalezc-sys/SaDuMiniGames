@@ -37,6 +37,22 @@ A web platform for hosting and playing mini-games from various creators, inspire
 2. Enable GitHub Pages for the repository
 3. Your game will be accessible at: `https://username.github.io/repository-name/`
 
+### For Local Games
+
+If you have a local game (like `C:/Users/ayda_/Santiago/SantiagoProgramacion/BrawlStarsCopy/index.html`), you cannot directly use local file paths in iframes due to browser security restrictions. You must host it first:
+
+**Option 1: GitHub Pages (Recommended)**
+1. Create a new GitHub repository
+2. Upload your game files (index.html and any assets)
+3. Go to repository Settings → Pages
+4. Select "Deploy from a branch" and choose "main" branch
+5. Your game will be available at: `https://your-username.github.io/repository-name/`
+
+**Option 2: Other Static Hosting**
+- Netlify (drag and drop your folder)
+- Vercel
+- GitHub Pages (as described above)
+
 ### Step 2: Add Game Metadata
 
 Edit `data/games.ts` and add your game to the `games` array:

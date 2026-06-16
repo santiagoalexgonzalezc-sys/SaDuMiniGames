@@ -24,6 +24,30 @@ export const games: Game[] = [
     rating: 4,
     releaseDate: "2024-01-15",
   },
+  {
+    id: "2048-game",
+    title: "2048",
+    description: "Classic 2048 puzzle game - slide tiles to combine numbers and reach 2048",
+    category: "Puzzle",
+    thumbnail: "/thumbnails/2048.jpg",
+    gameUrl: "https://dofunprojects.github.io/2048/",
+    controls: "Use arrow keys or swipe to move tiles",
+    tags: ["puzzle", "numbers", "classic"],
+    rating: 5,
+    releaseDate: "2024-01-20",
+  },
+  {
+    id: "button-game",
+    title: "Button Game",
+    description: "A simple button-clicking game",
+    category: "Arcade",
+    thumbnail: "/thumbnails/button-game.jpg",
+    gameUrl: "https://dofunprojects.github.io/button1/",
+    controls: "Click buttons to interact with the game",
+    tags: ["simple", "clicker", "browser"],
+    rating: 3,
+    releaseDate: "2024-01-22",
+  },
 ]
 
 export const categories = [
