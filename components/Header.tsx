@@ -1,5 +1,5 @@
 import Link from "next/link"
-import { Gamepad2 } from "lucide-react"
+import { Gamepad2, Settings } from "lucide-react"
 
 export default function Header() {
   return (
@@ -18,6 +18,10 @@ export default function Header() {
             </Link>
             <Link href="/category/all" className="text-gray-300 hover:text-white transition-colors">
               All Games
+            </Link>
+            <Link href="/admin" className="flex items-center gap-2 text-gray-300 hover:text-white transition-colors">
+              <Settings className="w-4 h-4" />
+              Admin
             </Link>
           </nav>
         </div>
