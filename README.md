@@ -39,7 +39,7 @@ A web platform for hosting and playing mini-games from various creators, inspire
 
 ### For Local Games
 
-If you have a local game (like `C:/Users/ayda_/Santiago/SantiagoProgramacion/BrawlStarsCopy/index.html`), you cannot directly use local file paths in iframes due to browser security restrictions. You must host it first:
+If you have a local game (like `C:/Users/name1/name2/name2Programacion/BrawlStarsCopy/index.html`), you cannot directly use local file paths in iframes due to browser security restrictions. You must host it first:
 
 **Option 1: GitHub Pages (Recommended)**
 1. Create a new GitHub repository
