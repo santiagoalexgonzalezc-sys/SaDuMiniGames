@@ -153,5 +153,4 @@ MIT
 
 
 ## Where is this hosted?
-https://sa-du-mini-games.vercel.app/
-    
+sa-du-mini-games.vercel.app
