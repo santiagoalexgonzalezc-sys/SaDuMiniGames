@@ -29,9 +29,21 @@ A web platform for hosting and playing mini-games from various creators, inspire
    ```
 4. Open [http://localhost:3000](http://localhost:3000) in your browser
 
-## Adding Games Manually
+## Adding Games
 
-### Step 1: Host Your Game on GitHub Pages
+### Quick Method (Recommended)
+If you have a game you'd like to add to the platform, simply email me at **santiagoalexgonzalezc@gmail.com** with:
+- Your game's URL (GitHub Pages or other hosting)
+- Game title and description
+- Category preference
+- Any other relevant details
+
+I'll add your game to the platform for you!
+
+### Manual Method
+If you prefer to add games yourself, follow these steps:
+
+#### Step 1: Host Your Game on GitHub Pages
 
 1. Create a GitHub repository for your game
 2. Enable GitHub Pages for the repository
