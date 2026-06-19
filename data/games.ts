@@ -48,6 +48,18 @@ export const games: Game[] = [
     rating: 3,
     releaseDate: "2024-01-22",
   },
+  {
+    id: "css-study",
+    title: "CSS Study",
+    description: "Learn and practice CSS styling techniques",
+    category: "Educational",
+    thumbnail: "https://via.placeholder.com/640x360?text=CSS+Study",
+    gameUrl: "https://monkeydluzi.github.io/CssStudy/",
+    controls: "Use mouse to interact with CSS elements",
+    tags: ["educational", "css", "web", "learning"],
+    rating: 4,
+    releaseDate: "2024-06-19",
+  },
 ]
 
 export const categories = [
