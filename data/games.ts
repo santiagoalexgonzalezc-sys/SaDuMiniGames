@@ -71,7 +71,20 @@ export const games: Game[] = [
     controls: "Choose different portals and get as many in a row",
     tags: ["educational", "Guess", "web", "Rng"],
     rating: 5,
-    releaseDate: "2024-06-19",
+    releaseDate: "2026-06-19",
+  },
+
+  {
+    id: "pet-trainer",
+    title: "Pet Trainer",
+    description: "level up your pets with your timing",
+    category: "Strategy",
+    thumbnail: "https://via.placeholder.com/640x360?text=Traning+Pet",
+    gameUrl: "https://santiagoalexgonzalezc-sys.github.io/PetTrainingMinigame/",
+    controls: "Choose different portals and get as many in a row",
+    tags: ["pet", "skill", "timing", "Web"],
+    rating: 5,
+    releaseDate: "2026-06-20",
   },
   
 ]
