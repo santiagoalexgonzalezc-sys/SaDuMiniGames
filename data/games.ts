@@ -50,17 +50,34 @@ export const games: Game[] = [
   },
   {
     id: "css-study",
-    title: "CSS Study",
-    description: "Learn and practice CSS styling techniques",
+    title: "Catch A Button",
+    description: "Catch a button with style",
     category: "Educational",
     thumbnail: "https://via.placeholder.com/640x360?text=CSS+Study",
     gameUrl: "https://monkeydluzi.github.io/CssStudy/",
-    controls: "Use mouse to interact with CSS elements",
+    controls: "Use mouse to click the button",
     tags: ["educational", "css", "web", "learning"],
     rating: 4,
     releaseDate: "2024-06-19",
   },
+
+  {
+    id: "portal-chooser",
+    title: "Portal Chooser",
+    description: "Try the guess the right portals",
+    category: "Puzzle",
+    thumbnail: "https://via.placeholder.com/640x360?text=Portal+Chooser",
+    gameUrl: "https://santiagoalexgonzalezc-sys.github.io/Portal_Chooser/",
+    controls: "Choose different portals and get as many in a row",
+    tags: ["educational", "Guess", "web", "Rng"],
+    rating: 5,
+    releaseDate: "2024-06-19",
+  },
+  
 ]
+
+
+
 
 export const categories = [
   "All",
