@@ -12,18 +12,7 @@ export interface Game {
 }
 
 export const games: Game[] = [
-  {
-    id: "monkeydluzi-first-website",
-    title: "MonkeyDluzi First Website",
-    description: "A simple web-based game hosted on GitHub Pages",
-    category: "Arcade",
-    thumbnail: "/thumbnails/monkeydluzi.jpg",
-    gameUrl: "https://monkeydluzi.github.io/MonkeyDluziMyFirstWebsite/",
-    controls: "Use mouse to interact with the game",
-    tags: ["web", "simple", "browser"],
-    rating: 4,
-    releaseDate: "2024-01-15",
-  },
+
   {
     id: "2048-game",
     title: "2048",
